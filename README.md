@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LVJummay
 - 👀 I’m interested in New Tech
-- 🌱 I’m currently learning Codind & Programming
+- 🌱 I’m currently learning Coding & Programming
 - 
 
 <!---
